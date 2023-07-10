@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/amaan.shaikh/Project/pydataberlin-2019/mlruns/965704194097592225/fdc8fecadd024621b10ce572e619449f/artifacts
+end_time: 1688630279652
+entry_point_name: ''
+experiment_id: '965704194097592225'
+lifecycle_stage: active
+run_id: fdc8fecadd024621b10ce572e619449f
+run_name: dapper-hog-752
+run_uuid: fdc8fecadd024621b10ce572e619449f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688630277203
+status: 3
+tags: []
+user_id: root

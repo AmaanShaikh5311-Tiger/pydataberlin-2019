@@ -1,0 +1,15 @@
+artifact_uri: /mnt/c/Users/amaan.shaikh/Project/pydataberlin-2019/mlruns/965704194097592225/13726aadb18d4b80a8b9958179390892/artifacts
+end_time: 1688630386003
+entry_point_name: ''
+experiment_id: '965704194097592225'
+lifecycle_stage: active
+run_id: 13726aadb18d4b80a8b9958179390892
+run_name: carefree-calf-783
+run_uuid: 13726aadb18d4b80a8b9958179390892
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688630383839
+status: 3
+tags: []
+user_id: root
